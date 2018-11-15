@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{34D62CAD-5F40-5B52-03DA-FCB4A686EE3D}</ProjectGuid>
+    <ProjectGuid>{86F7200B-0048-40FF-82E6-6A6E35C829B9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -62,10 +62,10 @@
     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Install/Unity Projects/School/Myth/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Install/Unity Projects/School/JonasAndTheLeviathan/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Install/Unity Projects/School/Myth/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Install/Unity Projects/School/JonasAndTheLeviathan/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Install/Unity editors/2018.1.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

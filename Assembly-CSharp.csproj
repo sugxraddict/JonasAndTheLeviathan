@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{EDB140B2-4DD3-1FF7-F154-4761F2B86D7F}</ProjectGuid>
+    <ProjectGuid>{8790C217-BD2E-A4EE-D31F-5117245E20FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -87,10 +87,10 @@
     <Compile Include="Assets\Scripts\Player\Other\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Player\Other\RaycastCheck.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Install/Unity Projects/School/Myth/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Install/Unity Projects/School/JonasAndTheLeviathan/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Install/Unity Projects/School/Myth/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Install/Unity Projects/School/JonasAndTheLeviathan/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Install/Unity editors/2018.1.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -326,7 +326,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{34D62CAD-5F40-5B52-03DA-FCB4A686EE3D}</Project>
+      <Project>{86F7200B-0048-40FF-82E6-6A6E35C829B9}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
